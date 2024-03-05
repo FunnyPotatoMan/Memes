@@ -23,7 +23,7 @@
     left: 50%;
     top: 90%;
     position: absolute;
-    font-family: "Sixtyfour";
+    font-family: Sixtyfour;
     font-size: 300%;
     transform: translate(-50%, 0%);
 }
