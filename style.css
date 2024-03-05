@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquarda+Bastarda+9&family=Sixtyfour&display=swap');
+@font-face {
+    font-family: BANAAN;
+    src: url('Bananasplit.ttf') format('truetype');
+}
+.meme {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-center {
+    color: black;
+    left: 50%;
+    top: 10%;
+    position: absolute;
+    font-family: "Jacquarda Bastarda 9";
+    font-size: 300%;
+    transform: translate(-50%, 0%);
+}
+.bottom-center {
+    color: black;
+    left: 50%;
+    top: 90%;
+    position: absolute;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300%;
+    transform: translate(-50%, 0%);
+}
+#banana {
+    font-family: "Sixtyfour";
+}
